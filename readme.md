@@ -20,7 +20,9 @@ This project is about to generate the Linear gradient interactively using the cu
 
 ![img.png](img.png)
 
+Demo Gif
+![Piecewise Linear Gradient Generator.gif](..%2F..%2FDownloads%2FPiecewise%20Linear%20Gradient%20Generator.gif)
 
 * <a href="https://github.com/abdullah0307/Piecewise-Linear-Gradient-Generator">Github</a>
-* <a href="">Demo Video</a>
+* <a href="https://www.youtube.com/channel/UCW272ZWMpQauSkEN7fsMa5A">Youtube Link</a>
 * <a href="">Website</a>
