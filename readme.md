@@ -24,5 +24,5 @@ Demo Gif
 ![Piecewise Linear Gradient Generator.gif](..%2F..%2FDownloads%2FPiecewise%20Linear%20Gradient%20Generator.gif)
 
 * <a href="https://github.com/abdullah0307/Piecewise-Linear-Gradient-Generator">Github</a>
-* <a href="https://www.youtube.com/channel/UCW272ZWMpQauSkEN7fsMa5A">Youtube Link</a>
+* <a href="https://youtu.be/qgFUJn8C-sE">Youtube Link</a>
 * <a href="">Website</a>
